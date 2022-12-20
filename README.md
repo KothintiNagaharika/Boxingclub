@@ -4,8 +4,7 @@ Hii..This is NagaHarika...Here is about my Mscloud project
 
 ## Github Respoistory Link ## - https://github.com/KothintiNagaharika/Boxingclub
 
-## Project Link ## - https://purple-sky-026d8bc00.2.azurestaticapps.net
-
+## Project Link ## - 
 
 *Industry Name* - Lifestyle
 
