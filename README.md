@@ -2,9 +2,9 @@ Hii..This is NagaHarika...Here is about my Mscloud project
 
 # ✨Project Name: Boxing Club ✨ #
 
-## Github Respoistory Link ## - https://github.com/KothintiNagaharika/Boxingclub
+Github Respoistory Link - https://github.com/KothintiNagaharika/Boxingclub
 
-## Project Link ## - 
+Project Link - https://agreeable-beach-050dcdb00.2.azurestaticapps.net
 
 *Industry Name* - Lifestyle
 
