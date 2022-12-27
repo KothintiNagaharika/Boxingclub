@@ -6,7 +6,7 @@ Github Respoistory Link - https://github.com/KothintiNagaharika/Boxingclub
 
 Project Link - https://calm-rock-0b93bb900.2.azurestaticapps.net
 
-Project Demo video URL - 
+Project Demo video URL - https://youtu.be/Xc9IIe1WFkU
 
 
 *Industry Name* - Lifestyle
